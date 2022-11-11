@@ -4,10 +4,13 @@ Self driving car lane and path detection
 Ubuntu18.04
 
 # Python
-python 3.6.9
-pip 21.3.1 
-pip3 install setuptools==45.2.0
-(高版本卸载命令pip3 uninstall setuptools）
+	python 3.6.9
+	
+	pip 21.3.1
+	
+	pip3 install setuptools==45.2.0
+	
+	(高版本卸载命令pip3 uninstall setuptools）
 
 # Libs
 安装库文件
